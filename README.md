@@ -1,1 +1,1 @@
-#i am learnig git and githud
+# I am learnig git and githud
